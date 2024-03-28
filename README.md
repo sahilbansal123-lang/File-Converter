@@ -30,8 +30,4 @@ python main.py  #run the program
 # you might need to run python3 instead python in mac and linux system.
 ```
 
-This project is supported by ChatGPT for making the GUI faster.
 
-It is under MIT copyright. You can use it and share with others.
-
-If you find it useful and wants me to improve, please reach out! You can also support me via https://www.buymeacoffee.com/science64
